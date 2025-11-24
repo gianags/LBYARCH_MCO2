@@ -36,3 +36,4 @@ The following table lists the execution times for both C and x86-64 and their av
 | Average | 0.26 | 0.15 |
 
 ## Correctness Check
+![correctness check](https://github.com/giags/LBYARCH_MCO2/blob/main/check.jpg?raw=true)
