@@ -1,4 +1,6 @@
-# LBYARCH_MCO2
+# LBYARCH MCO2
+Members: Agsalon, Gianela Kim A.
+
 ## Execution time
 The following table lists the execution times for both C and x86-64 and their averages for a 10x10 image.
 | Execution | C | x86-64 |
